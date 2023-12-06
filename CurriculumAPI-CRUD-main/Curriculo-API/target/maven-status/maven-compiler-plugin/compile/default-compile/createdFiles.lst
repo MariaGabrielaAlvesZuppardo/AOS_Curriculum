@@ -1,0 +1,4 @@
+com\example\demo\CurriculumApplication.class
+com\example\demo\controller\CurriculumController.class
+com\example\demo\repository\CurriculumRepository.class
+com\example\demo\model\Curriculum.class
